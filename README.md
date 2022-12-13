@@ -1,16 +1,33 @@
 # flutter_api_praktikum
 
-A new Flutter project.
+UAS Pemrograman Mobile menggunakan API masakapahariini(unofficial)
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Resep Terbaru
+<p align="center">
+<img src="https://github.com/onynovianti/flutter_uas_recipe_app/blob/15642a98128291ab6d76f8d9c5e70ed48813e558/assets/Picture1.png" width="300" />
+</p>
+<p align="center">
+<img src="https://github.com/onynovianti/flutter_uas_recipe_app/blob/15642a98128291ab6d76f8d9c5e70ed48813e558/assets/Picture2.png" width="300" />
+</p>
+### Kategori Resep
+<p align="center">
+<img src="https://github.com/onynovianti/flutter_uas_recipe_app/blob/15642a98128291ab6d76f8d9c5e70ed48813e558/assets/Picture3.png" width="300" />
+</p>
+<p align="center">
+<img src="https://github.com/onynovianti/flutter_uas_recipe_app/blob/15642a98128291ab6d76f8d9c5e70ed48813e558/assets/Picture4.png" width="300" />
+</p>
+### Kategori Resep : Dessert
+<p align="center">
+<img src="https://github.com/onynovianti/flutter_uas_recipe_app/blob/15642a98128291ab6d76f8d9c5e70ed48813e558/assets/Picture5.png" width="300" />
+</p>
+<p align="center">
+<img src="https://github.com/onynovianti/flutter_uas_recipe_app/blob/15642a98128291ab6d76f8d9c5e70ed48813e558/assets/Picture6.png" width="300" />
+</p>
+### Bagikan Resep
+<p align="center">
+<img src="https://github.com/onynovianti/flutter_uas_recipe_app/blob/15642a98128291ab6d76f8d9c5e70ed48813e558/assets/Picture7.png" width="300" />
+</p>
+<p align="center">
+<img src="https://github.com/onynovianti/flutter_uas_recipe_app/blob/15642a98128291ab6d76f8d9c5e70ed48813e558/assets/Picture8.png" width="300" />
+</p>
