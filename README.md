@@ -3,7 +3,7 @@
 UAS Pemrograman Mobile menggunakan API masakapahariini(unofficial)
 
 ## Getting Started
-### Resep Terbaru
+<h3> Resep Terbaru </h3>
 <p align="center">
 <img src="https://github.com/onynovianti/flutter_uas_recipe_app/blob/15642a98128291ab6d76f8d9c5e70ed48813e558/assets/Picture1.png" width="300" />
 </p>
